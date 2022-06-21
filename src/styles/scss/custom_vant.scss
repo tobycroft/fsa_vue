@@ -1,0 +1,12 @@
+.van-picker {
+    ::v-deep {
+        .van-picker-column__item {
+            color: #999999;
+        }
+
+        .van-picker-column__item--selected {
+            color: #333333;
+            font-weight: bold;
+        }
+    }
+}
