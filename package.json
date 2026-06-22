@@ -11,7 +11,7 @@
   "dependencies": {
     "@vant/area-data": "^1.2.4",
     "@vue/composition-api": "^1.5.0",
-    "axios": "^0.27.2",
+    "axios": "^0.32.0",
     "core-js": "^3.8.3",
     "dateformat": "^5.0.3",
     "default-passive-events": "^2.0.0",
